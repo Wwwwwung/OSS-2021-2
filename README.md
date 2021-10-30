@@ -24,7 +24,7 @@
 
 * * *
 이 과정을 순서도로 나타내면 다음과 같다.
-![Alt text](![순서도1](https://user-images.githubusercontent.com/90589294/139540188-d745bb53-42be-4ad6-a94d-6303ae10bb2c.jpg))
+![순서도1](https://user-images.githubusercontent.com/90589294/139540188-d745bb53-42be-4ad6-a94d-6303ae10bb2c.jpg)
 
 ## 군집화
 
