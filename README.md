@@ -24,7 +24,7 @@
 
 * * *
 이 과정을 순서도로 나타내면 다음과 같다.
-![Alt text](/바탕화면/순서도1.jpg)
+![Alt text](C:\Users\si000\Downloads\picture\순서도1.jpg)
 
 ## 군집화
 
