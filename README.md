@@ -24,6 +24,7 @@
 
 * * *
 이 과정을 순서도로 나타내면 다음과 같다.
+
 <img src="https://user-images.githubusercontent.com/90589294/139540188-d745bb53-42be-4ad6-a94d-6303ae10bb2c.jpg" width="40%" height="50%"></img>
 
 ## 군집화
